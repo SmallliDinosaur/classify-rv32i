@@ -18,7 +18,7 @@
 
 
 ### Task 3: Classification
-Classify.s is a matrix-based neural network classifier that implements the following main functionalities:
+
 
 ## Result
 after bash test.sh all
