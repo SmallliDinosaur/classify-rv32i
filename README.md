@@ -6,7 +6,6 @@
 
 ### Task 3.1: Dot Product
 
-#### How It Works
 
 
 ### Task 3.2: Matrix Multiplication
